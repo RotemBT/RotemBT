@@ -1,4 +1,9 @@
-### Hi there 👋
+Hi there 👋
+
+My name is Rotem and I'm:
+- THING_ONE
+- THING_TWO
+- THING_THREE
 
 <!--
 **RotemBT/RotemBT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -16,11 +16,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RotemBT&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RotemBT&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
- <p>
-    <img src="https://views.whatilearened.today/views/github/RotemBT/views.svg"/>
-    <a href="https://github.com/RotemBT?tab=followers"><img src="https://img.shields.io/github/followers/RotemBT?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
- 
-  </p>
 </p>
 
 ## LinkedIn Profile
